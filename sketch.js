@@ -43,7 +43,7 @@ box5 = new Box(810,200,70,70);
     bird1 = new Bird(150,150);
 
 bird2 = new Bird(100,150)
-bird.image = loadImage("sprites/birdYellow.webp")
+bird.image = loadImage("bomb.png")
 
     bird2 = new Bird(100,150);
 log2  = new Log(810,200,300,PI/2)
