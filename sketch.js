@@ -60,7 +60,7 @@ function draw(){
         fill("white")
         text("Score  " + score, width-300, 50)
     
-if (bird.body.position.x > 500){bird.image = loadImage("sprites/birdYellowHappy.webp")}
+if (bird.body.position.x > 500){bird.image = loadImage("bomb.png")}
 
 
     Engine.update(engine);
